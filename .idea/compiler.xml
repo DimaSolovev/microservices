@@ -11,6 +11,7 @@
         <module name="eureka-server" />
         <module name="clients" />
         <module name="fraud" />
+        <module name="notification" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="customer" target="11" />
       <module name="eureka-server" target="11" />
       <module name="fraud" target="11" />
+      <module name="notification" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
