@@ -22,6 +22,7 @@
       <module name="apigw" target="11" />
       <module name="clients" target="11" />
       <module name="customer" target="11" />
+      <module name="customer1" target="11" />
       <module name="eureka-server" target="11" />
       <module name="fraud" target="11" />
       <module name="notification" target="11" />
